@@ -198,4 +198,8 @@
     <string name="private_dns_mode_cloudflare" translatable="false">Cloudflare DNS</string>
     <!-- AdGuard DNS Option -->
     <string name="private_dns_mode_adguard" translatable="false">AdGuard DNS</string>
+
+    <!-- Lockscreen battery info indicator -->
+    <string name="lockscreen_battery_info_title">Battery info</string>
+    <string name="lockscreen_battery_info_summary">Display battery info when charging</string>
 </resources>
